@@ -35,7 +35,7 @@ pip install pandas numpy ta binance
 
 ## Usage
 Clone the repository: 
-git clone https://github.com/your_username/cryptocurrency-backtesting.git
+git clone https://github.com/YusufSemihGurkok/MACD---Moving-Average-and-XO-trend-indciators-on-Bitcoin.git
 cd cryptocurrency-backtesting
 
 Install the required dependencies as mentioned in the "Dependencies" section.
